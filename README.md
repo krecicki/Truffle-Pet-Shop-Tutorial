@@ -14,5 +14,7 @@ For the full step by step tutorial visit: https://www.trufflesuite.com/tutorial
 Make sure when installing Node to set your path like this: export PATH="path/to/node/here" -- see below for paths for different OS.
 
 Linux:	export PATH=$PATH:/usr/local/nodejs/bin
+
 Mac:	export PATH=$PATH:/usr/local/nodejs/bin
+
 FreeBSD:	export PATH=$PATH:/usr/local/nodejs/bin
