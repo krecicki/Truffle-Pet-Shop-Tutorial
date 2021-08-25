@@ -1,0 +1,2 @@
+# Truffle Pet Shop Tutorial
+ This is my working version of the truffle pet shop tutorial. While learning how to build dapps in solidity I didnt find many helpful places to get working code examples. I hope this helps. If your pragma are throwing errors change the build type to 0.5.0 in your VScode IDE. The add ETH to your wallet use your Ganche wallets private key to import a wallet with a balance into MetaMask for testing. Each time you restart Ganache you'll need to do the 'truffle migration' commandin the terminal. 
